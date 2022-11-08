@@ -21,7 +21,7 @@ o Robô le um arquivo excel, e realiza a consulta deles de forma automatica pega
     node index.js
 
 
-# A pergunta que irá fazer para capturar os dados ?
+# A pergunta é, o que vcs fizeram  para capturar os dados ?
 
 Pois bem, foi usado uma  biblioteca Node que fornece uma API de alto nível para controlar o Chrome ou o Chromium por meio do protocolo DevTools, é chamada de Puppeteer. Tudo que você faz manualmente em seu navegador pode ser feito nele, podemos citar.
 
