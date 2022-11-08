@@ -1,4 +1,4 @@
-# Keven Escovedo
+# EQUIPE GameSync
 
 Automatizando consulta de CPF/CPNJ, através de BOT 🤖⚙️
 
