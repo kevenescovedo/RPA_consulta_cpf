@@ -1,4 +1,4 @@
-# EQUIPE GameSync
+# Equipe GameSync
 
 Automatizando consulta de CPF/CPNJ, através de BOT 🤖⚙️
 
